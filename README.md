@@ -9,10 +9,9 @@ Run a Paper (Minecraft Java Edition) server on Android with Termux. Uses up to 2
 - You must accept the Minecraft EULA: https://aka.ms/MinecraftEULA
 
 ## Install
-Replace YOUR_USERNAME with your GitHub name (also in `setup.sh`).
 
     pkg update && pkg install -y git
-    git clone https://github.com/YOUR_USERNAME/termux-mc-server
+    git clone https://github.com/Pheak-Dev/termux-mc-server
     cd termux-mc-server
     bash setup.sh
 
