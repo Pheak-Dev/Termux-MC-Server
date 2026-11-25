@@ -1,0 +1,4 @@
+.panel_token
+__pycache__/
+*.jar
+*.zip
